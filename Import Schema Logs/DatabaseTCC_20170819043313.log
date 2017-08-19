@@ -1,0 +1,77 @@
+19/08/2017 17:33:13	This log contains information about the import schema operation into project 'DatabaseTCC' on computer 'SHUBHANKAR' by user 'Joy'.
+19/08/2017 17:33:14	Import of database schema has started.
+19/08/2017 17:33:26	Gathering database options
+19/08/2017 17:33:26	Gathering users
+19/08/2017 17:33:26	Gathering roles
+19/08/2017 17:33:26	Gathering application roles
+19/08/2017 17:33:26	Gathering role memberships
+19/08/2017 17:33:26	Gathering filegroups
+19/08/2017 17:33:26	Gathering full-text catalogs
+19/08/2017 17:33:26	Gathering assemblies
+19/08/2017 17:33:26	Gathering certificates
+19/08/2017 17:33:26	Gathering asymmetric keys
+19/08/2017 17:33:26	Gathering symmetric keys
+19/08/2017 17:33:26	Gathering encrypted symmetric keys
+19/08/2017 17:33:26	Gathering schemas
+19/08/2017 17:33:35	Gathering XML schema collections
+19/08/2017 17:33:35	Gathering user-defined data types
+19/08/2017 17:33:35	Gathering user-defined types
+19/08/2017 17:33:35	Gathering table types
+19/08/2017 17:33:35	Gathering unique keys for table types
+19/08/2017 17:33:35	Gathering primary keys for table types
+19/08/2017 17:33:35	Gathering indexes for table types
+19/08/2017 17:33:35	Gathering check constraints for table types
+19/08/2017 17:33:35	Gathering default constraints for table types
+19/08/2017 17:33:35	Gathering partition functions
+19/08/2017 17:33:35	Gathering partition schemes
+19/08/2017 17:33:35	Gathering functions
+19/08/2017 17:33:35	Gathering encrypted functions
+19/08/2017 17:33:35	Gathering aggregates
+19/08/2017 17:33:35	Gathering procedures
+19/08/2017 17:33:35	Gathering encrypted procedures
+19/08/2017 17:33:35	Gathering tables
+19/08/2017 17:33:35	Gathering primary keys
+19/08/2017 17:33:35	Gathering unique constraints
+19/08/2017 17:33:35	Gathering foreign keys
+19/08/2017 17:33:35	Gathering default constraints
+19/08/2017 17:33:35	Gathering check constraints
+19/08/2017 17:33:35	Gathering views
+19/08/2017 17:33:35	Gathering encrypted views
+19/08/2017 17:33:35	Gathering indexes
+19/08/2017 17:33:35	Gathering statistics
+19/08/2017 17:33:35	Gathering full-text index stoplists
+19/08/2017 17:33:35	Gathering search property lists
+19/08/2017 17:33:35	Gathering search properties
+19/08/2017 17:33:35	Gathering full-text indexes
+19/08/2017 17:33:35	Gathering column store indexes
+19/08/2017 17:33:35	Gathering spatial indexes
+19/08/2017 17:33:35	Gathering XML indexes
+19/08/2017 17:33:35	Gathering Selective XML indexes
+19/08/2017 17:33:35	Gathering encrypted triggers
+19/08/2017 17:33:35	Gathering triggers
+19/08/2017 17:33:35	Gathering encrypted and clr ddl triggers
+19/08/2017 17:33:36	Gathering ddl triggers
+19/08/2017 17:33:36	Gathering synonyms
+19/08/2017 17:33:36	Gathering defaults
+19/08/2017 17:33:36	Gathering data constraint uddt bindings
+19/08/2017 17:33:36	Gathering rules
+19/08/2017 17:33:36	Gathering data constraint uddt bindings
+19/08/2017 17:33:36	Gathering message types
+19/08/2017 17:33:36	Gathering queues
+19/08/2017 17:33:36	Gathering contracts
+19/08/2017 17:33:36	Gathering services
+19/08/2017 17:33:36	Gathering event notifications
+19/08/2017 17:33:36	Gathering remote service bindings
+19/08/2017 17:33:36	Gathering broker priorities
+19/08/2017 17:33:36	Gathering signatures
+19/08/2017 17:33:36	Gathering data compression options
+19/08/2017 17:33:36	Gathering sequence types
+19/08/2017 17:33:36	Gathering extended properties
+19/08/2017 17:33:36	Gathering credentials
+19/08/2017 17:33:36	Gathering logins
+19/08/2017 17:33:36	Gathering server audits
+19/08/2017 17:33:37	Scanning project for duplicate elements
+19/08/2017 17:33:37	Finished duplicate element processing
+19/08/2017 17:33:37	Finished importing database.
+19/08/2017 17:33:37	A summary of the import was saved to the following location: C:\Users\Joy\Documents\Visual Studio 2015\Projects\DatabaseTCC\Import Schema Logs\DatabaseTCC_20170819043313.log
+19/08/2017 17:33:37	Click Finish to continue...
