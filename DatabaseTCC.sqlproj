@@ -118,4 +118,7 @@
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="DatabaseTCC.refactorlog" />
+  </ItemGroup>
 </Project>
