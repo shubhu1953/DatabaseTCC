@@ -5,7 +5,7 @@
                 #--Load the SQL Server instance--
 		$dacService = new-object Microsoft.SqlServer.Dac.DacServices "server=(SHUBHANKAR\SQLEXPRESS)"
                 #--Load the DACPAC--
-		$dacPac = [Microsoft.SqlServer.Dac.DacPackage]::Load("$tcDir\DatabaseTCC\DatabaseTCC\bin\Release\DatabaseTCC.dacpac")
+		$dacPac = [Microsoft.SqlServer.Dac.DacPackage]::Load("$tcDir\bin\Release\DatabaseTCC.dacpac")
                 #--Deploy your database--
 		$dacService.deploy($dacPac, "QA", "True") 
 		
