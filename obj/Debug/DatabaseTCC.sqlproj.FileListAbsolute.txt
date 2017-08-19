@@ -1,0 +1,9 @@
+C:\Users\Joy\Documents\GitHub\DatabaseTCC\DatabaseTCC\bin\Debug\DatabaseTCC.dacpac
+C:\Users\Joy\Documents\GitHub\DatabaseTCC\DatabaseTCC\bin\Debug\DatabaseTCC.dll
+C:\Users\Joy\Documents\GitHub\DatabaseTCC\DatabaseTCC\bin\Debug\DatabaseTCC.pdb
+C:\Users\Joy\Documents\GitHub\DatabaseTCC\DatabaseTCC\obj\Debug\Model.xml
+C:\Users\Joy\Documents\GitHub\DatabaseTCC\DatabaseTCC\obj\Debug\refactor.xml
+C:\Users\Joy\Documents\GitHub\DatabaseTCC\DatabaseTCC\obj\Debug\postdeploy.sql
+C:\Users\Joy\Documents\GitHub\DatabaseTCC\DatabaseTCC\obj\Debug\predeploy.sql
+C:\Users\Joy\Documents\GitHub\DatabaseTCC\DatabaseTCC\obj\Debug\DatabaseTCC.dll
+C:\Users\Joy\Documents\GitHub\DatabaseTCC\DatabaseTCC\obj\Debug\DatabaseTCC.pdb
